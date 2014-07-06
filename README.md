@@ -1,8 +1,8 @@
-# cookie
+# bui-cookie
 
 ---
 
-[![spm version](http://spmjs.io/badge/cookie)](http://spmjs.io/package/cookie)
+[![spm version](http://spmjs.io/badge/bui-cookie)](http://spmjs.io/package/bui-cookie)
 
 An awesome spm package!
 
@@ -11,13 +11,13 @@ An awesome spm package!
 ## Install
 
 ```
-$ spm install cookie --save
+$ spm install bui-cookie --save
 ```
 
 ## Usage
 
 ```js
-var cookie = require('cookie');
+var cookie = require('bui-cookie');
 // use cookie
 ```
 

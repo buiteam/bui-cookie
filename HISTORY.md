@@ -4,4 +4,4 @@
 
 ## 1.1.0
 
-`new` It is the first version of cookie.
+`new` It is the first version of bui-cookie.
